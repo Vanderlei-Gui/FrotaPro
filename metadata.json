@@ -1,0 +1,8 @@
+{
+  "name": "Gestão de Frotas",
+  "description": "Sistema de gestão de frotas corporativo com IA, white-label e controle financeiro completo.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
